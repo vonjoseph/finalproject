@@ -1,0 +1,83 @@
+* {
+    margin:0;
+    padding:0;
+}
+
+html {
+     font-size:16px;
+}
+
+body{
+    background-color: #E5E5E5;
+}
+
+header {
+    /*height: 100vh;*/
+    width: auto;
+    background-color: #000000;
+    background-image: url(.../images/header-back.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+    text-align:left ;
+    margin-top: 20;
+    padding-bottom: 50px;
+    padding-top: 50;
+}
+
+.side-image{
+    width:100%;
+}
+
+article {
+    display:flex;
+}
+
+figure {
+    width:33.333333%;
+}
+
+.article-content{
+    width: 66.666666%;
+}
+h1 {
+    font-size:3rem;
+    color:white;
+    font-family:'Libre Barcode 39 Text', cursive;
+}
+ h2{
+     font-size:2rem;
+     font-family:Libre+Barcode+39+Text;
+ }
+ 
+.flex-container {
+    display:flex;
+    justify-content: space-around;
+    background-color:black;
+    
+}
+
+.flex-container li {
+    margin-right: 10px;
+}
+
+#copyright {
+	left: 10px;
+	bottom:10px;
+	background-color: black;
+	color: gray;
+	text-align: center;
+	
+}
+
+*/
+/*header {*/
+/*	margin-top: 1000px;*/
+/*	position: relative;*/
+/*	top: 120px;*/
+/*	text-align: center;*/
+	/*height: 250px;*/
+/*	background-image: url(../Img/Header.jpg);*/
+/*	background-repeat: no-repeat;*/
+/*	background-size: cover;*/
+
+
